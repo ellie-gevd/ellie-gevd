@@ -5,7 +5,7 @@
 🎓 Licenciada en Administración de Empresas y Científica de Datos en formación. 
 Combino mi formación en Administración de Empresas con Ciencia de Datos para transformar datos en información útil que apoye la toma de decisiones y la resolución de problemas de negocio. 
 Durante mi formación en TripleTen he desarrollado proyectos de análisis de datos, modelos predictivos y visualizaciones utilizando Python, SQL y Scikit-learn. 
-Actualmente busco oportunidades como Junior Data Scientist o Data Analyst, donde pueda aportar tanto una visión de negocio como habilidades técnicas para generar soluciones basadas en datos. 
+Actualmente me encuentro en búsqueda de mi primera oportunidad profesional como Junior Data Scientist o Data Analyst, donde pueda aportar una visión de negocio y habilidades técnicas para generar soluciones basadas en datos. 
 
 ## 🚀 Proyectos destacados 
 
