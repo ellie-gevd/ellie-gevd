@@ -28,18 +28,24 @@ Actualmente busco oportunidades como Junior Data Scientist o Data Analyst, donde
 🔵 **Lenguajes:** 
 - Python
 - SQL
+
 🔵 **Análisis de datos:**
 - Pandas
 - NumPy
+
 🔵 **Machine Learning:**
 - Scikit-learn
 - TensorFlow (básico)
+
 🔵 **Visualización:**
 - Matplotlib
+
 🔵 **Desarrollo y despliegue:**
 - Streamlit
+
 🔵 **Bases de datos:**
 - PostgreSQL
+
 🔵 **Herramientas:**
 - Git
 - GitHub
