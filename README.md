@@ -1,5 +1,7 @@
 # ¡Hola! 👋 Soy Elizabeth Vázquez 
 
+Data Analyst focused on Business Analytics, Data Quality and Financial Analysis. SQL • Python • Power BI • Excel
+
 ## 👩🏻‍💻Sobre mí 
 
 🎓 Licenciada en Administración de Empresas y Científica de Datos en formación. 
